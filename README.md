@@ -1,2 +1,2 @@
 # SC_302_Documentacion_MN_Anderson
-Labpratorio 1
+Laboratorio 1
